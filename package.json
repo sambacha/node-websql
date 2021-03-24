@@ -1,6 +1,6 @@
 {
   "name": "websql",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "WebSQL Database API, implemented for Node using sqlite3",
   "repository": {
     "type": "git",
@@ -44,9 +44,9 @@
   "license": "Apache-2.0",
   "dependencies": {
     "argsarray": "^0.0.1",
-    "immediate": "^3.2.2",
+    "immediate": "^3.3.0",
     "noop-fn": "^1.0.0",
-    "sqlite3": "^4.0.0",
+    "sqlite3": "^5.0.2",
     "tiny-queue": "^0.2.1"
   },
   "devDependencies": {
