@@ -1,3 +1,4 @@
 node_modules
 testdb*
 coverage
+.DS_Store
